@@ -29,7 +29,11 @@ https://mealbox-e2ce5.web.app/
 
 ![App Screenshot](https://i.ibb.co.com/nwNnZqk/Untitled-design.jpg)
 
-
+## How to Use
+1. Clone this repository.
+2. Open it in Visual Studio Code (VS Code).
+3. Run the project locally with your preferred development server.
+4. Begin exploring, and feel free to make modifications as needed.
 ## Tech Stack
 
 **Client:** React, Tans Stack, TailwindCSS
